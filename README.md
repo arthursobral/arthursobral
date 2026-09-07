@@ -1,14 +1,4 @@
 # Arthur Sobral
-
-<div align="center">
-  <a href="https://github.com/arthursobral">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthursobral&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursobral&layout=compact&langs_count=8&theme=github_dark"/>
-  </a>
-</div>
-
----
-
 ## About Me
 
 Software Developer and Team Lead with experience building workflow automation, document generation systems, APIs, and client-facing solutions for global financial institutions.
