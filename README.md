@@ -44,8 +44,19 @@ Currently focused on:
 - Micro SaaS Development
 - Workflow Automation
 - AI-Assisted Development
+- AI Engineering (RAG, LLM agents, evaluation)
 - System Architecture
 - Product Development
+
+---
+
+## Featured Project
+
+### [IndicaLens](https://github.com/arthursobral/indicalens) · [live demo](https://indicalens.streamlit.app/)
+
+A multi-agent system that answers questions about Brazilian economic indicators (IBGE and Banco Central) with a source on every number. Values come from deterministic code, not from the LLM; a Critic agent checks each claim the LLM makes against the retrieved sources; and relations between series (Selic, exchange rate, inflation, GDP revisions) are reported with confidence intervals, including "no evidence" when that is the honest answer. An evaluation harness gates every pull request in CI.
+
+**Stack:** Python · LangGraph · PostgreSQL + pgvector (Supabase) · Groq · Streamlit · GitHub Actions
 
 ---
 
